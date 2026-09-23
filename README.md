@@ -1,21 +1,20 @@
 # All your AI accounts. One control panel. Connected to your phone.
 
 Tired of jumping between Claude, Codex, Gemini, Cursor, Kimi and a handful of
-ChatGPT logins? SYC-AI brings every account into one self-hosted panel, gives
+ChatGPT logins? SYC-AI brings every account into one panel — on the web, your phone and your desktop — gives
 your agents authorized access to your phone, and grows into server meshes,
 social automation, token saving and Agent Surgery in the professional editions.
 
 ## Get it
 
-**SYC-AI (Main) is out — free for everyone during launch.**
+**SYC-AI (Main) is out — free for everyone until 14 October 2026.** One account, four ways in:
 
-→ **[github.com/SYCC-AI/syc-ai](https://github.com/SYCC-AI/syc-ai)** — one-line
-install, signed releases, Android phone connector, six interface languages.
+- 🌐 **Web** — [app.syc-ai.com](https://app.syc-ai.com/login)
+- 📱 **Android** — [SYC-AI app](https://syc-ai.com/download/syc-ai.apk) · phone connector [SYC Claw](https://syc-ai.com/download/syc-claw.apk)
+- 🐧 **Linux** — `curl -fsSL https://syc-ai.com/node/install.sh | bash`
+- 🖥️ **Desktop** — open app.syc-ai.com in Chrome or Edge → *Install SYC-AI* (Windows also: `irm https://syc-ai.com/node/install.ps1 | iex`)
 
-```bash
-curl -fsSL https://raw.githubusercontent.com/SYCC-AI/syc-ai/main/install.sh | bash
-```
-(see the README for the full command with your origin and the verification keys)
+Website: **[syc-ai.com](https://syc-ai.com)** · Source, signed releases and self-hosting: **[SYCC-AI/syc-ai](https://github.com/SYCC-AI/syc-ai)**
 
 ## What's next
 
