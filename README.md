@@ -1,25 +1,35 @@
-# All your AI accounts. One control panel. Connected to your phone.
+<div align="center">
 
-Tired of jumping between Claude, Codex, Gemini, Cursor, Kimi and a handful of
-ChatGPT logins? SYC-AI brings every account into one panel — on the web, your phone and your desktop — gives
-your agents authorized access to your phone, and grows into server meshes,
-social automation, token saving and Agent Surgery in the professional editions.
+<img src="https://raw.githubusercontent.com/SYCC-AI/syc-ai/main/public/assets/syc-logo.svg" width="96" alt="SYC">
+
+# All You Need With AI — In One.
+
+**SYC-AI runs Claude Code and Codex on your own computer — and lets you start, watch and approve them from the web, your phone or your desktop.**
+
+[**Start free at syc-ai.com →**](https://syc-ai.com) &nbsp;·&nbsp; [**SYCC-AI/syc-ai** on GitHub](https://github.com/SYCC-AI/syc-ai)
+
+English · [فارسی](https://github.com/SYCC-AI/syc-ai/blob/main/README.fa.md) · [中文](https://github.com/SYCC-AI/syc-ai/blob/main/README.zh-CN.md) · [Русский](https://github.com/SYCC-AI/syc-ai/blob/main/README.ru.md) · [العربية](https://github.com/SYCC-AI/syc-ai/blob/main/README.ar.md) · [Español](https://github.com/SYCC-AI/syc-ai/blob/main/README.es.md)
+
+</div>
+
+## What SYC-AI does
+
+- 📱 **Start and steer from your phone** — open a new session, not just watch one.
+- 🔔 **Phone alerts** — know when an agent waits for your OK or finishes a long task.
+- 🧩 **Every AI account in one place** — Claude and Codex today; Gemini, Cursor and Kimi next.
+- 💻 **Your own computer** — your provider logins and files stay there.
+- 🛡️ **Open-source device agent** — runs only the AI CLIs, can be paused, logs everything.
+- 🌍 **Six languages** — English, 中文, Español, العربية, Русский, فارسی.
 
 ## Get it
 
-**SYC-AI (Main) is out — free for everyone until 14 October 2026.** One account, four ways in:
+| | |
+|---|---|
+| 🌐 Web | [app.syc-ai.com](https://app.syc-ai.com/login) |
+| 📱 Android | [SYC-AI app (APK)](https://syc-ai.com/download/syc-ai.apk) |
+| 🐧 Linux / macOS | `curl -fsSL https://syc-ai.com/node/install.sh \| bash` |
+| 🪟 Windows | `irm https://syc-ai.com/node/install.ps1 \| iex` |
 
-- 🌐 **Web** — [app.syc-ai.com](https://app.syc-ai.com/login)
-- 📱 **Android** — [SYC-AI app](https://syc-ai.com/download/syc-ai.apk) · phone connector [SYC Claw](https://syc-ai.com/download/syc-claw.apk)
-- 🐧 **Linux** — `curl -fsSL https://syc-ai.com/node/install.sh | bash`
-- 🖥️ **Desktop** — open app.syc-ai.com in Chrome or Edge → *Install SYC-AI* (Windows also: `irm https://syc-ai.com/node/install.ps1 | iex`)
-
-Website: **[syc-ai.com](https://syc-ai.com)** · Source, signed releases and self-hosting: **[SYCC-AI/syc-ai](https://github.com/SYCC-AI/syc-ai)**
-
-## What's next
-
-Plus, Pro, Team and Enterprise editions: every server as one mesh, your social
-channels wired to your agents, agents that spend fewer tokens and think your
-way, and Agent Surgery for professionals. iPhone: coming soon.
+**SYC-AI (Main) is free during the launch.** Coming next: Communications (Telegram, WhatsApp, Instagram) for your agents, team workspaces and the professional editions.
 
 SYC is the parent brand. SYC-AI is its AI product.
